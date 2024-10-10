@@ -1,4 +1,4 @@
-# EmployWise Assignment
+# Assignment
 
 ## Overview
 EmployWise is a user management application built with React that integrates with the [Reqres API](https://reqres.in/) for basic user management functions. This application features a login screen, a paginated user list, and the ability to edit and delete user details.
